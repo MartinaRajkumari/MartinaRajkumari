@@ -10,7 +10,7 @@
 **Libraries:** pandas, matplotlib, seaborn, scikit-learn, numpy<br/>
 **Simulation & Research Tools:** OriginPro, LAMMPS<br/>
 
-## 📚 Currently Exploring...
+## 📚 Currently Exploring
 
 - Machine learning algorithms  <br/>
 - Real-world use cases of data science<br/>
