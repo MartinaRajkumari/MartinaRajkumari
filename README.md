@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi, Martina here!
 
-<!--
-**MartinaRajkumari/MartinaRajkumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Aspiring Data Scientist sharing about my journey and learnings<br/>
+🔭 Physics Graduate from National Institute of Technology, Manipur<br/>
+📊 Currently an intern at SkillCraft Technology<br/>
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Programming & Tech:** Python, C++, Verilog HDL, Matlab, Octave <br/>
+**Libraries:** pandas, matplotlib, seaborn, scikit-learn, numpy<br/>
+**Simulation & Research Tools:** OriginPro, LAMMPS<br/>
+
+## 📚 Currently Exploring...
+
+- Machine learning algorithms  <br/>
+- Real-world use cases of data science<br/>
+- Data storytelling using dashboards and interactive plots  <br/>
+
+## 📫 Contact Me
+
+Feel free to connect with me for collaborations, research discussions or data science opportunities at:<br/>
+
+📧 Email: [martinaaarkay@gmail.com](mailto:martinaaarkay@gmail.com)  <br/>
+📍 Location: Imphal, Manipur, India  <br/>
+📱 Phone: +91 7085611848  <br/>
+🔗 LinkedIn: [(http://linkedin.com/in/martina-75935b1bb)](http://linkedin.com/in/martina-75935b1bb)<br/>
+💻 GitHub: [github.com/YourUsername](https://github.com/YourUsername)
