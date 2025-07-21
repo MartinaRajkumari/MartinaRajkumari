@@ -1,7 +1,7 @@
 ## Hi, Martina here!
 
 🌱 Aspiring Data Scientist sharing about my journey and learnings<br/>
-🔭 Physics Graduate from National Institute of Technology, Manipur<br/>
+🔭 Physics PostGraduate from National Institute of Technology, Manipur<br/>
 📊 Currently an intern at SkillCraft Technology<br/>
 
 ## 🛠️ Skills & Tools
