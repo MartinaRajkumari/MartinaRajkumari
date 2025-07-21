@@ -22,6 +22,5 @@ Feel free to connect with me for collaborations, research discussions or data sc
 
 📧 Email: [martinaaarkay@gmail.com](mailto:martinaaarkay@gmail.com)  <br/>
 📍 Location: Imphal, Manipur, India  <br/>
-📱 Phone: +91 7085611848  <br/>
 🔗 LinkedIn: [(http://linkedin.com/in/martina-75935b1bb)](http://linkedin.com/in/martina-75935b1bb)<br/>
 💻 GitHub: [github.com/YourUsername](https://github.com/YourUsername)
