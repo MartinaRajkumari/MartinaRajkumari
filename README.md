@@ -2,7 +2,8 @@
 
 🌱 Aspiring Data Scientist sharing about my journey and learnings<br/>
 🔭 Physics PostGraduate from National Institute of Technology, Manipur<br/>
-📊 Currently an intern at SkillCraft Technology<br/>
+📊 Intern at SkillCraft Technology<br/>
+📊 Intern at Evoastra Ventures Pvt Ltd<br/>
 
 ## 🛠️ Skills & Tools
 
